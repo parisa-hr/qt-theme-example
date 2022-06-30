@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/theme">
+        <file>themes/Ubuntu.qss</file>
+        <file>themes/MaterialDark.qss</file>
+    </qresource>
+</RCC>
